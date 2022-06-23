@@ -1,0 +1,39 @@
+{
+  "item.netherupdate.soul_sword" : "Soul Sword",
+  "item.netherupdate.magma_sword" : "Magma Sword",
+  "item.netherupdate.basalt_sword" : "Basalt Sword",
+
+
+  "item.netherupdate.soul_ingot" : "Soul Ingot",
+  "item.netherupdate.magma_ingot" : "Magma Ingot",
+  "item.netherupdate.basalt_ingot" : "Basalt Ingot",
+
+
+  "item.netherupdate.raw_soul_ingot" : "Raw Soul Ingot",
+  "item.netherupdate.raw_magma_ingot" : "Raw Magma Ingot",
+  "item.netherupdate.raw_basalt_ingot" : "Raw Basalt Ingot",
+
+
+  "item.netherupdate.stone_stick" : "Stone Stick",
+
+
+  "block.netherupdate.soul_ore" : "Soul Ore",
+  "block.netherupdate.magma_ore" : "Magma Ore",
+  "block.netherupdate.basalt_ore" : "Basalt Ore",
+
+
+
+  "block.netherupdate.soul_ore_block" : "Block Of Soul Ore",
+  "block.netherupdate.magma_ore_block" : "Block Of Magma Ore",
+  "block.netherupdate.basalt_ore_block" : "Block Of Magma Ore",
+
+
+  "entity.minecraft.villager.netherupdate.magma_profession": "Magma Miner",
+  "entity.minecraft.villager.netherupdate.basalt_profession": "Basalt Miner",
+  "entity.minecraft.villager.netherupdate.soul_profession": "Soul Miner",
+
+
+
+  "itemGroup.netherupdatecreativemodetab" : "Nether Update"
+
+}

@@ -1,0 +1,12 @@
+{
+  "replace": false,
+  "values": [
+    "netherupdate:soul_ore",
+    "netherupdate:magma_ore",
+    "netherupdate:basalt_ore",
+
+    "netherupdate:soul_ore_block",
+    "netherupdate:magma_ore_block",
+    "netherupdate:basalt_ore_block"
+  ]
+}
